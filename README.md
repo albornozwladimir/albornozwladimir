@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Safehis SPA](http://www.safehis.com/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **React**
 
 - 💬 Ask me about **Ruby on Rails**
 
