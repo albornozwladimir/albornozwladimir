@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albornozwladimir&label=Profile%20views&color=0e75b6&style=flat" alt="albornozwladimir" /> </p>
 
-- 🔭 My personal Site (https://wladimir.cl/)
+- 🔭 My personal Web-Site (https://wladimir.cl/)
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Javascript** and **Ruby on Rails**
 
 - 📫 How to reach me **albornoz.wladimir@gmail.com**
 
