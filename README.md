@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **wladimir.albornoz@usach.cl**
+- 📫 How to reach me **albornoz.wladimir@gmail.cl**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
