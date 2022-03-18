@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albornozwladimir&label=Profile%20views&color=0e75b6&style=flat" alt="albornozwladimir" /> </p>
 
-- 🔭 I’m currently working on [Safehis SPA](http://www.safehis.com/)
+- 🔭 My personal Site (https://wladimir.cl/)
 
-- 🌱 I’m currently learning **Go** and **React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **albornoz.wladimir@gmail.cl**
+- 📫 How to reach me **albornoz.wladimir@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
