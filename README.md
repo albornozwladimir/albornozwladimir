@@ -5,7 +5,7 @@
 
 - 🔭 My personal Web-Site (https://wladimir.cl/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Javascript** and **Ruby on Rails**
 
