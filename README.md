@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript** and **Ruby on Rails**
 
-- 📫 How to reach me **albornoz.wladimir@gmail.com**
+- 📫 How to reach me **wladimir.develop@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
