@@ -5,9 +5,9 @@
 
 - 🔭 My personal Web-Site (https://wladimir.cl/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Javascript** and **Ruby on Rails**
+- 💬 Ask me about **Javascript**, **Python** and **Ruby on Rails**
 
 - 📫 How to reach me **wladimir.develop@gmail.com**
 
